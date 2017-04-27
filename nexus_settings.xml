@@ -2,7 +2,7 @@
 <settings>
   <mirrors>
     <mirror>
-      <id>Nexus</id>
+      <id>nexus3</id>
       <name>Nexus Public Mirror</name>
       <url>http://nexus3-nexus.192.168.64.2.nip.io/repository/maven-all-public/</url>
       <mirrorOf>*</mirrorOf>
@@ -10,7 +10,7 @@
   </mirrors>
   <servers>
     <server>
-      <id>nexus</id>
+      <id>nexus3</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
